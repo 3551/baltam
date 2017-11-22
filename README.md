@@ -1,2 +1,2 @@
-# baltam
+# matlab
 Matlab scripts
